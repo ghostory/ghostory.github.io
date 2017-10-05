@@ -1,0 +1,30 @@
+body, html {
+  height: 100%;
+  font-family: 'Open Sans', serif;
+  font-size: 48px;
+  color: #ffffff;
+  text-align: center;
+}
+
+body {
+    height: 100%;
+    /*background: url(../images/space.jpg) no-repeat center fixed;*/
+    background-size: cover;
+    background-color: #50C878;
+}
+
+td {
+  width: 100px;
+  height: 100px;
+
+}
+
+.twitter, .github, .linkedin {
+  width: 70px;
+  height: 70px;
+}
+
+.links {
+  margin-left: auto;
+  margin-right: auto;
+}
